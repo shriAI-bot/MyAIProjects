@@ -1,14 +1,15 @@
 Summary: This tool will help users practice for standardized tests and job assessments.
 
 Steps to access the tool:
-  1. Click “Download” to get the file
-  2. Save it with a .html extension (e.g., mocktest.html). If Save wno;t work then open the downloaded file and so the 'Save As' as .html file.
+  1. Copy paste the code into notepad file or Click “Download” to get the file
+  2. Save it with a .html extension (e.g., mocktest.html). If Save won't work then try 'Save As' as .html file.
   3. Double-click the file to open it in your browser — and you're in!
 
  Prompt for LLM: Copy paste entire section / prompt on on your favoriate LLM tool like Google AI Studio, Claude, Chat GPT etc. You can Change it as per your need and build your own tool!
  ** IF Tool starts giving memory error then reduce the number of questions to 50 and see the result and then optimize it.
 
-  
+ --PROMPT STARTS---
+ 
 LLM Prompt: Build a Self-Contained Cognitive Ability Mock Test Tool
 [1. PROJECT GOAL & OVERVIEW]
 Your task is to generate the complete code for a self-contained, interactive Cognitive Ability & Logical Reasoning Mock Test Tool. The final output must be a single index.html file that runs locally in any modern browser without needing a server or internet connection. This tool will help users practice for standardized tests and job assessments.
